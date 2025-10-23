@@ -1,5 +1,6 @@
 # DoS
 *Motivos Educacionales*
+
 esta herramienta esta diseñada para ejecutar ataques de DoS, no es tan efectivo a diferencia del DDoS
 # Pasos de instalacion
 clona el repositorio
