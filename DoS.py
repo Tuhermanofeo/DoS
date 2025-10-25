@@ -22,7 +22,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet Dos Attack")
 print("Dev: Tuhermanofeo")
 print("GitHub: https://github.com/tuhermanofeo")
 print("")
@@ -33,11 +33,11 @@ port = int(input("Port       : "))  # <--- convertir a entero
 os.system("clear") 
 os.system("figlet Attack Starting")
 print("[                    ] 0% ")
-time.sleep(5)
+time.sleep(3)
 print("[=====               ] 25%")
-time.sleep(5)
+time.sleep(2)
 print("[==========          ] 50%")
-time.sleep(5)
+time.sleep(1)
 print("[===============     ] 75%")
 time.sleep(5)
 print("[====================] 100%")
@@ -52,3 +52,4 @@ while True:
     port += 1
     if port == 65534:
         port = 1
+
